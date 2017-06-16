@@ -5,9 +5,10 @@ The rest of the plan is simple: I fly to the moon.... I Shrink the moon, I grab 
 # Tech Stack
 
 Gentoo linux, Fedora Linux, Amazon EC2 instance.
-Java 1.7 for the guts
-Apache
-Tomcat
+Java 1.7 for the guts.
+Apache.
+Tomcat.
+Google API for google login.
 Javascript for the serverside glue.
 HTML5/CSS/D3js for presentation layer.
 Android programming through the android app store.
@@ -18,7 +19,7 @@ Jenkins Continuous integration with one click build.  You don't need apache or t
 
 # what is Uber_crunch
 
-I don't want to give away my genius idea until we're there.  It involves uber drivers and machine learning. 
+I don't want to give away my genius idea until we're there.  It involves uber drivers, machine learning and arbitrage around uber's Bullshit socialism equation for setting fares. 
 
 # What I have so far
 

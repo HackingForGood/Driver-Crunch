@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Driver Crunch</string>
+    <string name="title_activity_maps">Select Your Location</string>
+    <string name="search_place">Search for a place</string>
+    <string name="submit">Submit</string>
+    <string name="title_activity_predictions">Predictions</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="sign_out">Sign out</string>
+</resources>

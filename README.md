@@ -2,6 +2,11 @@
 
 Improving the working conditions of taxi drivers by predicting future optimal rates.
 
+
+# Web Frontend image:
+
+
+
 # Tech Stack
 
 Gentoo linux, Fedora Linux, Amazon EC2 instance.

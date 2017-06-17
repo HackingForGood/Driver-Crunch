@@ -6,9 +6,7 @@ Improving the working conditions of taxi drivers by predicting future optimal ra
 # Web Frontend image:
 
 
-<img src="./IMG_20170617_143125.jpg" height="24" width="48">
-
-![Alt text](./IMG_20170617_143125.jpg?raw=true "Web frontend screenshot")
+<img src="./IMG_20170617_143125.jpg" width="300">
 
 
 # Tech Stack

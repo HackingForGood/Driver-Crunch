@@ -1,7 +1,6 @@
 
 #!/bin/bash
 
-
 #this runs on apollo
 
 #Steps:

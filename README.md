@@ -1,6 +1,6 @@
-# uber_crunch
+# Driver_Crunch
 
-The rest of the plan is simple: I fly to the moon.... I Shrink the moon, I grab the moon.
+Improving the working conditions of taxi drivers by predicting future optimal rates.
 
 # Tech Stack
 
@@ -17,9 +17,9 @@ Ajax for com between java and javascript and html.
 Java can kick off python on the back end to do the ML secret sauce.
 Jenkins Continuous integration with one click build.  You don't need apache or tomcat on your system to contribute.
 
-# what is Uber_crunch
+# what is Driver_Crunch
 
-I don't want to give away my genius idea until we're there.  It involves uber drivers, machine learning and arbitrage around uber's Bullshit socialism equation for setting fares. 
+I don't want to give away my genius idea until we're there.  It involves taxi drivers, machine learning. 
 
 # What I have so far
 
@@ -27,4 +27,4 @@ I have a Java MVC front end done with CRUD proof of concept to MySQL and continu
 
 # Goals
 
-Get noticed by people 1 or 2 stations above my level and then get bought out by Uber in exchange for a suitcase of tightly stacked bills.
+Allow taxi drivers to be more efficient in order to reduce driver stress and increase the amount of free time for their families.
